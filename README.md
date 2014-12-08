@@ -1,4 +1,4 @@
 remotion4me
 ===========
 
-web framework based on ember and jquery mobile
+web framework based on mithril-hx, haxedci and jquery mobile
